@@ -6,6 +6,7 @@ This is my first Machine Learning application with Microsoft.ML
 
 
 Automatically adding a MinMax normalization transform, use 'norm=Warn' or 'norm=No' to turn this behavior off.
+
 Using 2 threads to train.
 Automatically choosing a check frequency of 2.
 Auto-tuning parameters: maxIterations = 9998.
