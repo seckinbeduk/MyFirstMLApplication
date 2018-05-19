@@ -3,6 +3,14 @@
 
 This is my first Machine Learning application with Microsoft.ML
 
+
+### Compiling and run
+
+    dotnet build
+    dotnet run
+    
+### Machine Learning Codes
+
   ```csharp
 using Microsoft.ML;
 using Microsoft.ML.Runtime.Api;
