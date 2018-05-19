@@ -4,7 +4,7 @@
 This is my first Machine Learning application with Microsoft.ML
 
 
-
+'''
 Automatically adding a MinMax normalization transform, use 'norm=Warn' or 'norm=No' to turn this behavior off.
 
 Using 2 threads to train.
@@ -15,3 +15,4 @@ Auto-tuning parameters: L1Threshold (L1/L2) = 0.
 Using best model from iteration 1068.
 Not training a calibrator because it is not needed.
 Predicted flower type is: Iris-virginica
+'''
