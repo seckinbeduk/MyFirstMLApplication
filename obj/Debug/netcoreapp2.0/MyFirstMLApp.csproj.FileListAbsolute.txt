@@ -1,0 +1,11 @@
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/bin/Debug/netcoreapp2.0/MyFirstMLApp.deps.json
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/bin/Debug/netcoreapp2.0/MyFirstMLApp.runtimeconfig.json
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/bin/Debug/netcoreapp2.0/MyFirstMLApp.runtimeconfig.dev.json
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/bin/Debug/netcoreapp2.0/MyFirstMLApp.dll
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/bin/Debug/netcoreapp2.0/MyFirstMLApp.pdb
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/obj/Debug/netcoreapp2.0/MyFirstMLApp.csprojResolveAssemblyReference.cache
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/obj/Debug/netcoreapp2.0/MyFirstMLApp.csproj.CoreCompileInputs.cache
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/obj/Debug/netcoreapp2.0/MyFirstMLApp.AssemblyInfoInputs.cache
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/obj/Debug/netcoreapp2.0/MyFirstMLApp.AssemblyInfo.cs
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/obj/Debug/netcoreapp2.0/MyFirstMLApp.dll
+/Users/seckinbeduk/Codes/ml/MyFirstMLApp/obj/Debug/netcoreapp2.0/MyFirstMLApp.pdb
